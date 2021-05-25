@@ -1,17 +1,15 @@
 # Requirements
 
 ## Introduction
-* Knowing the units of measurement that correspond with a number can give you so much more information than a digit as a standalone. 
+* Library Management System helps to maintain records of every issue, return transactions that happens in the libraries in computerized way.
 
-* In a nutshell, the unit of measurement in science and math serves as the supporting pillar upon which a number rests.
+* This helps the librarian in managing the library in a simple and easy manner, also helps to calculate the fines, collect the fines from the end-users.
 
-* **Unit conversion** is a process that involves multiplication or division by a numerical factor.
+* There are 2 modules, 
+  1. Admin Module (Users: Librarian, and other library staff)
+  2. Student Module (Users: Students and library users)
 
-* With the global flow of information that occurs these days, it is very important for everyone to learn these most basic conversion factors.
-
-* Keeping in mind all the conversion and inter-conversion processes may not be easy for everyone.
-
-* A metric conversion calculator is a tool that renders a helping hand by doing metric conversions in few seconds.
+* This tool also creates snapshots of the data at hourly frequency, so that we can recover back to previous hour very easily.
 
 ## Research
 * During the French Revolution, the then existing measurement system was so impractical for trade and scientific purposes. 
