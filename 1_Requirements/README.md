@@ -15,19 +15,58 @@
 * It used to be difficult for librarians to track each of the books, late fee fines etc.,
 * So, we came up with a solution which requires very less human effort, sends timely alerts to the librarians and end users regarding the books.
 
-## Cost and Features
+## Specific Requirements 💼
+### *External Interface Requirements*
+* The user should be simple and easy to understand and use. Also be an  interactive interface .The system should prompt for the user and administrator to  login to the application and for proper input criteria 
+
+  ### *1. User Interface* 👨‍🦱
+  * The software provides good graphical interface for the user any  administrator can operate on the system, performing the required task such as  create,           update, viewing the details of the book. 
+  * Allows user to view quick reports like Book Issues/Returned etc in  between particular time. 
+  * Stock verification and search facility based on different criteria. 
+
+  ### *2. Hardware interface ⛓️* 
+  * Operating system : window 
+  * Hard disk :40 GB 
+  * RAM : 256 MB 
+  * Processor : Pentium(R)Dual-core CPU 
+  
+  ### *3. Software interface 🖥️*
+  * Java language 
+  * Net beans IDE 7.0.1 
+  * MS SQL server 2005
+
+### *Functional requirements 🗃️*
+* Book entry: In this module we can store the details of the  
+books. 
+* Register student: in this module we can keep the details of the  new student. 
+* Book issue: This module is used to keep a track of book issue  details. 
+* Book return: This module enables to keep a track of return the  books.  
+
+### *Performance requirements :atom:*
+* The capability of the computer depends on the performance of the  software. The software can take any number of inputs provided the database size  is larger enough. This would depend on the available memory space. 
+  ### *Design constraints*
+  * Each member will be having a identity card which can be used for the library  book issue, fine payment etc. whenever library member wish to take a book, the  book issued by the library authority will be check both the book details as well as  the student details and store it in library database. In case of retrieval of book  much of human intervention can be eliminated.
+  ### *System attributes*
+  * Maintainability: There will be no maintained requirement for the  software. The database is provided by the end user and therefore is  maintained by this user. 
+  * Portability: The system is developed for secured purpose, so it is can’t  be portable. 
+  * Availability: This system will available only until the system on which  it is install, is running. 
+  * Scalability: Applicable.  
+### *Other requirements*
+* There are no other requirements.
+
+## Cost and Features :a
 ### *Cost*
 Since the system uses only open source software, it is free of cost..!!
 
-*TBD*
-
 ### *Features*
-The various features/options for interconversion of the system are:
-1. Length
-2. Area
-3. Volume
-4. Mass
-5. Speed
+* The various features provided in this software are:
+  
+  1. Unlimited User Accounts.
+  2. End User Access Permissions can be specified by the Admin.
+  3. Fetching Books
+  4. Alerts to email related to book return date, fines etc.,
+  5. Newsletters regarding newly added books are sent periodically.
+  6. Book Issue, Return, Fine Calculation.
 
 ## Defining the System
 ![System-Diagram](https://github.com/Sanchana-2k/LTTS_C_MiniProject/blob/bd3f1a159eb0f2032dbd88662892a2142d26b84d/1_Requirements/System%20Diagram.jpg)
