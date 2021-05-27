@@ -59,8 +59,25 @@ books.
 Since the system uses only open source software, it is free of cost..!!
 
 ### *Features*
-* The various features provided in this software are:
-  
+   ### Admin Module Features
+   1. Admin Dashboard
+   2. Admin can add/update/ delete category
+   3. Admin can add/update/ delete author
+   4. Admin can add/update/ delete books
+   5. Admin can issue a new book to student and also update the details when student return book
+   6. Admin can search student by using their student ID
+   7. Admin can also view student details
+   8. Admin can change own password
+   
+   ### Student Module Features
+   1. Student can register yourself and after registration they will get student_id.
+   2. After login student can view own dashboard.
+   3. Student can update own profile.
+   4. Student can view issued book and book return date-time.
+   5. Student can also change own password.
+   6. Student can also recover own password.
+   
+  ### Some other Key Features
   1. Unlimited User Accounts.
   2. End User Access Permissions can be specified by the Admin.
   3. Fetching Books
@@ -78,23 +95,23 @@ Since the system uses only open source software, it is free of cost..!!
 
 ## Who:
 
-The tool is a helping hand for young children who would like to counter verify their conversions and also for scientific researchers and mathematicians.
+This tool is a helping hand for librarians of the libraries across the world, automates the whole book transaction process of library.
 
 ## What:
 
-A metric conversion calculator that does metric conversions in few seconds.
+A Library Management System that helps in managing the book transactions like issue, return and also calculates the fines.
 
 ## When:
 
-When people are struggling with simple conversions or when kids would like to cross verify their answers while practicing or when people need conversion results in a jiffy to proceed on further with their calculations. 
+When Librarians or Library Management feels tough to do the library management in old conventional way or when Librarians want to automate the book transactions or scaling up the library.
 
 ## Where:
 
-Can be put to use where simple or advanced scientific and mathematic calculations requiring conversions are involved.
+Can be used at places where there are huge number of books in a library, or in libraries where the book transactions are very high.
 
 ## How:
 
-The system opens up to the standard list of metric conversions that are available. Upon selection of one the standard system, the list of inter-conversions i.e., the sub-system is shown on the screen. The user can now choose one sub unit that needs to be converted into one or more other sub units that is available on the list.  The results for all these conversions are flashed in a second.
+The student or library user can pick and add books to the cart and then he can checkout the cart in order to create a issue request. Then after picking the books they can go to librarian, and he can confirm the issue finally. Same flow for the return request as well. Calculated fines are displayed over the user portfolio itself.
 
 # Detail requirements
 ## High Level Requirements:
