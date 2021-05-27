@@ -1,30 +1,19 @@
-# Requirements
+# Requirements 🎯
 
-## Introduction ![image](https://user-images.githubusercontent.com/32685217/119812960-5ca5a280-bf06-11eb-9187-fc18326452ad.png | width=50)
+## Introduction 💬
 * Library Management System helps to maintain records of every issue, return transactions that happens in the libraries in computerized way.
-
 * This helps the librarian in managing the library in a simple and easy manner, also helps to calculate the fines, collect the fines from the end-users.
 
-* There are 2 modules, 
+* There are 2 modules developed, 
   1. Admin Module (Users: Librarian, and other library staff)
   2. Student Module (Users: Students and library users)
 
 * This tool also creates snapshots of the data at hourly frequency, so that we can recover back to previous hour very easily.
 
-## Research
-* During the French Revolution, the then existing measurement system was so impractical for trade and scientific purposes. 
-
-* So, it set the stage for the emergence of a system of measurement with rationally related units and simple rules for combining them.
-
-* Thus, a decimal based conversion system, called the Metric System,  was introduced and it was widely accepted by scientists of those days for being a rational system.
-
-* The metric system was devised with a aim “for all people, for all time.”
-
-* Today, the official system of measurement in most of the countries across the world is the metric system also known as the “International System of Units.
-
-* Though a standard system, there are many units within the metric systems and inter-conversion is tedious because one has to remember all the conversion factors.
-
-* Hence a tool that makes all these conversion immediately available will be a welcoming choice.
+## Research 📖
+* Initially, people used to maintain account books for these book transactions manually. This conventional way of maintaining records requires a lot of human effort and storage space in order to store the previous data. 
+* It used to be difficult for librarians to track each of the books, late fee fines etc.,
+* So, we came up with a solution which requires very less human effort, sends timely alerts to the librarians and end users regarding the books.
 
 ## Cost and Features
 ### *Cost*
