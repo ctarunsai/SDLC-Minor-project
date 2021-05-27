@@ -1,6 +1,6 @@
 # Requirements
 
-## Introduction ![image](https://user-images.githubusercontent.com/32685217/119812960-5ca5a280-bf06-11eb-9187-fc18326452ad.png =50x50)
+## Introduction ![image](https://user-images.githubusercontent.com/32685217/119812960-5ca5a280-bf06-11eb-9187-fc18326452ad.png | width=50)
 * Library Management System helps to maintain records of every issue, return transactions that happens in the libraries in computerized way.
 
 * This helps the librarian in managing the library in a simple and easy manner, also helps to calculate the fines, collect the fines from the end-users.
