@@ -86,7 +86,25 @@ Since the system uses only open source software, it is free of cost..!!
   6. Book Issue, Return, Fine Calculation.
 
 ## ▶️ Defining the System
-![System-Diagram](https://github.com/Sanchana-2k/LTTS_C_MiniProject/blob/bd3f1a159eb0f2032dbd88662892a2142d26b84d/1_Requirements/System%20Diagram.jpg)
+![System-Diagram](https://github.com/ctarunsai/SDLC-Minor-project/blob/main/1_Requirements/lms-system-design.jpeg)
+### Admin Module:
+* Admin Dashboard
+* Admin can add/update/ delete category
+* Admin can add/update/ delete author
+* Admin can add/update/ delete books
+* Admin can issue a new book to student and also update the details when student return book
+* Admin can search student by using their student ID
+* Admin can also view student details
+* Admin can change own password
+### Student Module:
+* Student can register yourself and after registration they will get student_id.
+* After login student can view own dashboard.
+* Student can update own profile.
+* Student can view issued book and book return date-time.
+* Student can also change own password.
+* Student can also recover own password.
+### Database
+* Each & Every Book transaction is stored in this database.
     
 ## ▶️ SWOT ANALYSIS
 ![SWOT-Analysis](https://github.com/ctarunsai/SDLC-Minor-project/blob/main/1_Requirements/SWOT-analysis.png)
@@ -118,47 +136,28 @@ The student or library user can pick and add books to the cart and then he can c
 
 |      ID          |Description                          |Status                         |
 |----------------|-------------------------------|-----------------------------|
-|HR_01|Length |Implemented|
-|HR_02|Area |Implemented|
-|HR_03|Volume|Implemented|
-|HR_04|Mass |Implemented|
-|HR_05|Speed |Implemented|
-|HR_06|Time|Future|
-|HR_07|Temperature|Future|
+|HR_01|Seperate Admin Module|Implemented|
+|HR_02|Seperate User Module|Implemented|
+|HR_03|Fine Calculation|Implemented|
+|HR_04|Automated Alerts|Future|
+|HR_05|Live Dashboard|Future|
 
 
 
 ## ↪️ Low level Requirements:
 |      ID          |Description                          |  HLR_ID  |Status               |
 |----------------|-------------------------------|----------|-----------------------------|
-|LR_01|Meter|HR_01|Implemented|
-|LR_02|Centimeter|HR_01|Implemented|
-|LR_03|Foot|HR_01|Implemented|
-|LR_04|Inch|HR_01|Implemented|
-|LR_05|Millimeter|HR_01|Implemented|
-|LR_06|Square Meter|HR_02|Implemented|
-|LR_07|Square Centimeter|HR_02|Implemented|
-|LR_08|Square Foot|HR_02|Implemented|
-|LR_09|MSquare Inch|HR_02|Implemented|
-|LR_10|Square Yard|HR_02|Implemented|
-|LR_11|Cubic Meter|HR_03|Implemented|
-|LR_12|Cubic Centimeter|HR_03|Implemented|
-|LR_13|Litre|HR_03|Implemented|
-|LR_14|Millilitre|HR_03|Implemented|
-|LR_15|Gallon (imperial)|HR_03|Implemented|
-|LR_16|Kilogram|HR_04|Implemented|
-|LR_17|Gram|HR_04|Implemented|
-|LR_18|Ounce|HR_04|Implemented|
-|LR_19|Tonne (metric)|HR_04|Implemented|
-|LR_20|Pound|HR_04|Implemented|
-|LR_21|Meter per Second|HR_05|Implemented|
-|LR_22|Kilometer per Hour|HR_05|Implemented|
-|LR_23|Miles per Hour|HR_05|Implemented|
-|LR_24|Foot per Second|HR_05|Implemented|
-|LR_25|Knot|HR_05|Implemented|
-|LR_26|Hour|HR_06|Future|
-|LR_27|Minute|HR_06|Future|
-|LR_28|Second|HR_06|Future|
-|LR_29|Celcius|HR_07|Future|
-|LR_30|Farenheit|HR_07|Future|
-|LR_31|Kelvin|HR_07|Future|
+|LR_01|Adding Books|HR_01|Implemented|
+|LR_02|Deleting Books|HR_01|Implemented|
+|LR_03|Updating User Rights|HR_01|Implemented|
+|LR_04|User Account Creation|HR_01|Implemented|
+|LR_06|Issue Books|HR_02|Implemented|
+|LR_07|Return Books|HR_02|Implemented|
+|LR_08|Pay Fines|HR_02|Implemented|
+|LR_09|Return dates of books issued|HR_03|Implemented|
+|LR_10|User Name of the account|HR_03|Implemented|
+|LR_11|Return dates of books issued by the user|HR_04|Future|
+|LR_12|Fine on the user account|HR_04|Future|
+|LR_13|Total issued books per day|HR_05|Future|
+|LR_14|Total returned books per day|HR_05|Future|
+|LR_15|Total fines paid per day|HR_05|Future|
