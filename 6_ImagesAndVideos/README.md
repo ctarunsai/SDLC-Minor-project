@@ -1,11 +1,71 @@
-# images and videos
-## Project Working Video in Linux
-#### The working video of the project in Linux is [attached](https://github.com/Sanchana-2k/LTTS_C_MiniProject/blob/958ae262d9cc068b8b1933df3ed75cf744aec9ff/6_ImagesAndVideos/linux_project_demo.mp4)
+# Images
 
-The working video contains the following being successfully executed:
-1. Build
-2. Run
-3. Unit testing - unity
-4. Cppcheck
-5. Valgrind
-6. Code coverage
+## Following are the screenshots of the project:
+1. Admin-Login 
+
+   <img src="https://github.com/ctarunsai/SDLC-Minor-project/blob/main/6_ImagesAndVideos/admin-login.png"/>
+
+2. User-Signup
+
+    <img src="https://github.com/ctarunsai/SDLC-Minor-project/blob/main/6_ImagesAndVideos/user-signup.png"/>
+
+3. User-Login
+
+    <img src="https://github.com/ctarunsai/SDLC-Minor-project/blob/main/6_ImagesAndVideos/user-login.png"/>
+
+4. User-Profile
+
+    <img src="https://github.com/ctarunsai/SDLC-Minor-project/blob/main/6_ImagesAndVideos/user-profile.png"/>
+
+5. User-Change Password
+
+    <img src="https://github.com/ctarunsai/SDLC-Minor-project/blob/main/6_ImagesAndVideos/user-password-change.png"/>
+
+6. User-Issued Books
+
+    <img src="https://github.com/ctarunsai/SDLC-Minor-project/blob/main/6_ImagesAndVideos/issued-books.png"/>
+
+7. Admin - Dashboard
+
+    <img src="https://github.com/ctarunsai/SDLC-Minor-project/blob/main/6_ImagesAndVideos/admin-dashboard.png"/>
+
+8. Admin - Add Category
+
+    <img src="https://github.com/ctarunsai/SDLC-Minor-project/blob/main/6_ImagesAndVideos/add-category.png"/>
+
+9. Admin - Manage Categories
+
+    <img src="https://github.com/ctarunsai/SDLC-Minor-project/blob/main/6_ImagesAndVideos/manage-categories.png"/>
+
+10. Admin - Add Author
+
+    <img src="https://github.com/ctarunsai/SDLC-Minor-project/blob/main/6_ImagesAndVideos/add-author.png"/>
+
+11. Admin - Manage Authors
+
+    <img src="https://github.com/ctarunsai/SDLC-Minor-project/blob/main/6_ImagesAndVideos/manage-authors.png"/>
+
+12. Admin - Add Book
+
+    <img src="https://github.com/ctarunsai/SDLC-Minor-project/blob/main/6_ImagesAndVideos/add-book.png"/>
+
+13. Admin - Manage Books
+
+    <img src="https://github.com/ctarunsai/SDLC-Minor-project/blob/main/6_ImagesAndVideos/manage-books.png"/>
+
+14. Admin - Issue Book
+
+    <img src="https://github.com/ctarunsai/SDLC-Minor-project/blob/main/6_ImagesAndVideos/admin-issue-book.png"/>
+
+15. Admin - Manage Issued Books
+
+    <img src="https://github.com/ctarunsai/SDLC-Minor-project/blob/main/6_ImagesAndVideos/admin-manage-issued-books.png"/>
+
+16. Admin - Manage Users
+
+    <img src="https://github.com/ctarunsai/SDLC-Minor-project/blob/main/6_ImagesAndVideos/manage-users.png"/>
+
+17. Admin - Change Password
+
+    <img src="https://github.com/ctarunsai/SDLC-Minor-project/blob/main/6_ImagesAndVideos/admin-password-change.png"/>
+
