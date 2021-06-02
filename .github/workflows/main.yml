@@ -29,8 +29,10 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world!
 
-      - name: Setup PHP with tools
-      - uses: shivammathur/setup-php@v2
+      - name: Setup PHP with fail-fast
+        uses: shivammathur/setup-php@v2
         with:
           php-version: '7.4'
-          tools: php-cs-fixer, phpunit
+          tools: deployer
+        env:
+          fail-fast: true
